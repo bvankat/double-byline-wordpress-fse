@@ -1,0 +1,15 @@
+{
+  "name": "hanscomparkstudio-double-byline",
+  "version": "0.1.0",
+  "description": "A dynamic block showing one or two post authors.",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "Your Name",
+  "license": "GPL-2.0+",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.0.0"
+  }
+}

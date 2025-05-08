@@ -1,2 +1,3 @@
-# double-byline-wordpress-fse
-Adds a double byline option to the Wordpress block editor. Second author is added through an ACF User field and the block outputs links to both user archives.
+# Double Byline Block
+
+Adds a dynamic block that displays either one or two author bylines, pulling the secondary author from an ACF "Users" field.
