@@ -1,0 +1,11 @@
+{
+	"apiVersion": 2,
+	"name": "hanscomparkstudio/double-byline",
+	"title": "Double Byline",
+	"category": "widgets",
+	"icon": "admin-users",
+	"editorScript": "file:./index.js",
+	"supports": {
+		"html": false
+	}
+}
